@@ -1,0 +1,23 @@
+{
+  "name": "exif-cleaner",
+  "version": "0.1.0",
+  "description": "A package that removes EXIF data from images to protect user privacy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senadev42/exif-cleaner.git"
+  },
+  "keywords": [
+    "exif",
+    "privacy"
+  ],
+  "author": "senadev42",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/senadev42/exif-cleaner/issues"
+  },
+  "homepage": "https://github.com/senadev42/exif-cleaner#readme"
+}
